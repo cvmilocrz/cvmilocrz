@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tecnélogo en Sistemas Informáticos<br>Desarrollador Full-Stack<br>React | Angular | NodeJs | MongoDB | PostgreSQL | MSQSQLSERVER</p>
+<p align="left">Tecnólogo en Sistemas Informáticos<br>Desarrollador Full-Stack<br>React | Angular | NodeJs | MongoDB | PostgreSQL | MSQSQLSERVER</p>
 
 ###
 
