@@ -35,14 +35,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/camilo_9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=camilo_9&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cvmilocrz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -57,6 +49,14 @@
   </a>
   <a href="https://www.instagram.com/cvmilo_9/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/camilo_9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=camilo_9&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
